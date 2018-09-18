@@ -1,2 +1,0 @@
-# ComputedModel
-Created with CodeSandbox
